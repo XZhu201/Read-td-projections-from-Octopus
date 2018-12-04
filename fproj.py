@@ -2,7 +2,6 @@
 """
 Created on Tue Dec  4 20:10:01 2018
 
-@author: Xiaosong Zhu
 """
 
 import sys
