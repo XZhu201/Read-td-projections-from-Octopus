@@ -2,7 +2,6 @@
 """
 Created on Tue Dec  4 18:57:58 2018
 
-@author: Xiaosong Zhu
 """
 
 
